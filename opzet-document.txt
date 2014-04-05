@@ -1,0 +1,56 @@
+Document number: RBB4-01
+
+MINOR CHANGE
+
+[Change design description]
+Design title: Installation of a transponder
+
+[Aircraft identification]
+Aircraft type:			S/N:
+Pilatus B4			All
+Pilatus B4A			All
+Pilatus B4AF			All
+
+[Design summary]
+This change is made to install a TSO-approved Mode-S transponder (like for example the Garrecht VT-01 UltraCompact) with a transflex-4 antenna in the applicable aircraft. The design covers the installation of an antenna, a transponder and wiring. This change is identical for all effective aircraft.
+
+[Applicable requirements]
+CS 22.1301:	Equipment/Function and installation
+CS 22.1353:	Electrical Systems and Equipment/Storage battery design and installation
+CS 22.1365:	Electrical Systems and Equipment/Electric cables and equipment
+CS 22.1431:	Miscellaneous Equipment/ATC airborne equipment
+EuroCAE ED-73B
+
+[Minor/Major classification]
+The change has no appreciable effect on the mass, balance, structural strength, reliability, operational characteristics, noise, fuel venting, exhaust emission, or other characteristics affecting the airworthiness of this product. Therefore, this change can be considered Minor.
+
+[Weight and balance]
+After the change has been performed, a new weight&balance report must be made. This can be performed by either weighing of the aircraft of by calculation.
+
+[Substantiation of the requirements]
+- CS 22.1301 (b): Transponder installation
+	The transponder will be installed in the instrument panel of the aircraft according to the instructions of the manufacturer of the transponder.
+
+- CS 22.1301 (b): Antenna installation
+	The antenna will be installed through a small hole in the fuselage, and will be fixated to the fuselage. The copper ground-block of the antenna is replaced with a aluminium ground-plate, thus preventing potential contact-corrosion. (See appendix 1, tekening/foto)
+
+- CS 22.1301 (b): Wiring
+	The cable and wires used will be installed according to the instructions of the manufacterer of the transponder. The antenna cable type is Aircell 7.
+
+- CS 22.1365 (a): Electrical Systems and Equipment/Electric cables and equipment
+	The transponder will be connected to the electrical system according to the instructions of the manufacturer of the transponder.
+
+- CS 22.1365 (b):  Electrical Systems and Equipment/Electric cables and equipment
+	Overload protection will be installed according to the instruction of the manufacturer of the transponder.
+
+- CS 22.1431 (a): Miscellaneous Equipment/ATC airborne equipment
+	This Minor change is only valid for TSO-approved transponders. For example, the Garrecht VT-01 UltraCompact is ETSO 2C112a approved.
+
+- CS 22.1431 (b): Miscellaneous Equipment/ATC airborne equipment
+	The control devices are all accessible on the instrument panel. Sufficient cooling is accomplished when installing the transponder according to the instructions of its manufacturer.
+
+- EuroCAE ED-73B:
+	After the change is performed, the transponder will be tested in accordance with the instructions of the manufacturer of the transponder in order to verify that the transponder is in compliance with the EuroCAE ED-73B requirements.
+
+Note:
+All installation work will be performed in accordance with acceptable methods, techniques and practices for alternations, inspections and repair as shown in FAA documents AC 43.13.B and AC 43.13-2A and the installation manual of the transponder in question.
