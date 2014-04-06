@@ -39,4 +39,5 @@ minorchange.pdf: minorchange.tex img/b4_ersatzteil_katalog_fig_2_1_3_annotated.p
 
 #Image generation
 img/%.pdf: img/%.svg $(DEPS)
-	 rsvg-convert -f pdf -o $@ $<
+	inkscape -z -D --file=$< --export-pdf=$@
+#	 rsvg-convert -f pdf -o $@ $<
