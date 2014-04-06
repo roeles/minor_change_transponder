@@ -29,7 +29,7 @@ clean: imgclean outputclean intermediateclean
 
 
 #PDF files
-minorchange.pdf: minorchange.tex $(DEPS)
+minorchange.pdf: minorchange.tex img/b4_ersatzteil_katalog_fig_2_1_3_annotated.pdf img/b4_ersatzteil_katalog_fig_2_1_15_annotated.pdf img/antenna_location.pdf img/inside.jpg img/outside.jpg $(DEPS)
 	pdflatex minorchange.tex
 #	bibtex kalman_paper.aux
 #	pdflatex kalman_paper.tex
