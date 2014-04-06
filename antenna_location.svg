@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="420.82913"
-   height="550.19714"
+   width="401.75278"
+   height="590.80206"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -110,8 +110,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="39.281181"
-     inkscape:cy="301.80473"
+     inkscape:cx="214.92986"
+     inkscape:cy="305.0769"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -140,14 +140,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-119.91388,-270.50504)">
+     transform="translate(-236.07359,-44.638163)">
     <rect
        style="fill:none;stroke:#000000;stroke-width:2.14866734;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2985-6"
        width="109.96607"
        height="438.53751"
-       x="279.30267"
-       y="318.80774" />
+       x="485.77786"
+       y="133.54576" />
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -156,126 +156,187 @@
        sodipodi:cy="503.79074"
        sodipodi:rx="21.428572"
        sodipodi:ry="22.857143"
-       d="m 508.57142,503.79074 c 0,12.62365 -9.59389,22.85714 -21.42857,22.85714 -11.83467,0 -21.42857,-10.23349 -21.42857,-22.85714 0,-12.62365 9.5939,-22.85714 21.42857,-22.85714 11.83468,0 21.42857,10.23349 21.42857,22.85714 z" />
+       d="m 508.57142,503.79074 c 0,12.62365 -9.59389,22.85714 -21.42857,22.85714 -11.83467,0 -21.42857,-10.23349 -21.42857,-22.85714 0,-12.62365 9.5939,-22.85714 21.42857,-22.85714 11.83468,0 21.42857,10.23349 21.42857,22.85714 z"
+       transform="translate(-207.84524,-185.3894)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.75461066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 280.12269,270.88235 -3.10252,533.38823 z"
+       d="M 486.59787,85.620373 483.49535,619.0086 z"
        id="path3021"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.98388207px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
-       d="m 487.85645,503.1841 0.71567,-183.5724"
-       id="path5349"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.03254116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
-       d="M 484.92554,507.00366 281.57445,506.29213"
-       id="path5349-6"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
-       x="504.5"
-       y="422.86218"
-       id="text5753"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5755"
-         x="504.5"
-         y="422.86218">220mm</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
-       x="400"
-       y="492.36218"
-       id="text5757"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5759"
-         x="400"
-         y="492.36218">190mm</tspan></text>
+    <g
+       id="g3124">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5349"
+         d="m 279.83163,318.42212 0.71567,-183.5724"
+         style="fill:none;stroke:#000000;stroke-width:0.98388207px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5753"
+         y="232.1002"
+         x="240.97516"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+         xml:space="preserve"><tspan
+           y="232.1002"
+           x="240.97516"
+           id="tspan5755"
+           sodipodi:role="line">220mm</tspan></text>
+    </g>
+    <g
+       id="g3119"
+       transform="translate(1.5,23)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5349-6"
+         d="M 482.09711,297.70005 278.74602,296.98852"
+         style="fill:none;stroke:#000000;stroke-width:1.03254116px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5757"
+         y="293.60022"
+         x="315.47516"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+         xml:space="preserve"><tspan
+           y="293.60022"
+           x="315.47516"
+           id="tspan5759"
+           sodipodi:role="line">190mm</tspan></text>
+    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0"
-       d="m 279,318.86218 229.5,-0.5"
+       d="m 236.57359,133.6002 229.5,-0.5"
        id="path5761"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
-       x="278"
-       y="803.36218"
+       x="484.47519"
+       y="618.10022"
        id="text5763"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5765"
-         x="278"
-         y="803.36218">Centerline</tspan><tspan
+         x="484.47519"
+         y="618.10022">Centerline</tspan><tspan
          sodipodi:role="line"
-         x="278"
-         y="818.36218"
+         x="484.47519"
+         y="633.10022"
          id="tspan5767">bottom fuselage</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.78188396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-3)"
-       d="m 133.51119,620.75312 -0.51392,39.55368"
-       id="path5769"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
-       x="120"
-       y="614.86218"
-       id="text5961"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5963"
-         x="120"
-         y="614.86218">Tail</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.78188396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-3)"
-       d="m 133.43796,580.74478 0.51392,-39.55368"
-       id="path5769-3"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
-       x="119.70988"
-       y="593.65265"
-       id="text5961-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5963-9"
-         x="119.70988"
-         y="593.65265">Nose</tspan></text>
+    <g
+       id="g3105"
+       transform="translate(283.32294,-20.632468)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5769"
+         d="m 339.98637,435.49114 -0.51392,39.55368"
+         style="fill:none;stroke:#000000;stroke-width:0.78188396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-3)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5961"
+         y="429.60022"
+         x="326.47519"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+         xml:space="preserve"><tspan
+           y="429.60022"
+           x="326.47519"
+           id="tspan5963"
+           sodipodi:role="line">Tail</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5769-3"
+         d="m 339.91314,395.4828 0.51392,-39.55368"
+         style="fill:none;stroke:#000000;stroke-width:0.78188396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-3)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5961-2"
+         y="408.39069"
+         x="326.18506"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+         xml:space="preserve"><tspan
+           y="408.39069"
+           x="326.18506"
+           id="tspan5963-9"
+           sodipodi:role="line">Nose</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-size:30.05508614px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
-       x="471.01553"
-       y="215.73221"
+       x="812.48291"
+       y="103.7098"
        id="text5995-2"
        sodipodi:linespacing="125%"
        transform="scale(0.60467027,1.6537939)"><tspan
          sodipodi:role="line"
          id="tspan5997-0"
-         x="471.01553"
-         y="215.73221">Gear area</tspan></text>
+         x="812.48291"
+         y="103.7098">Gear area</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:2.14866734;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2985-6-3"
        width="109.96607"
        height="438.53751"
-       x="168.93085"
-       y="318.43341" />
+       x="375.40604"
+       y="133.17143" />
     <text
        xml:space="preserve"
        style="font-size:30.05508614px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
-       x="288.48331"
-       y="215.50587"
+       x="629.95068"
+       y="103.48347"
        id="text5995-2-5"
        sodipodi:linespacing="125%"
        transform="scale(0.60467027,1.6537939)"><tspan
          sodipodi:role="line"
          id="tspan5997-0-1"
-         x="288.48331"
-         y="215.50587">Gear area</tspan></text>
+         x="629.95068"
+         y="103.48347">Gear area</tspan></text>
+    <g
+       id="g4131">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3129"
+         d="m 502.85941,64.702405 -240.68647,0"
+         style="fill:none;stroke:#000000;stroke-width:1.1089406px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-3-4)" />
+      <text
+         transform="translate(119.91388,-231.66002)"
+         sodipodi:linespacing="125%"
+         id="text4127"
+         y="284.36218"
+         x="168"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+         xml:space="preserve"><tspan
+           y="284.36218"
+           x="168"
+           id="tspan4129"
+           sodipodi:role="line">Canopy opens in this direction</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 401,526.80206 -401,0"
+       id="path4136"
+       inkscape:connector-curvature="0"
+       transform="translate(236.07359,44.638163)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+       x="239.07359"
+       y="583.44025"
+       id="text4138"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4140"
+         x="239.07359"
+         y="583.44025">Rumpfspant 4</tspan><tspan
+         sodipodi:role="line"
+         x="239.07359"
+         y="598.44025"
+         id="tspan4142">See Ersatzteil katalog</tspan><tspan
+         sodipodi:role="line"
+         x="239.07359"
+         y="613.44025"
+         id="tspan4146">Fig. 2/1/15</tspan><tspan
+         sodipodi:role="line"
+         x="239.07359"
+         y="628.44025"
+         id="tspan4144" /></text>
   </g>
 </svg>
