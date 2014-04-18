@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[twoside]{article}
 
 \usepackage{todonotes}
 \usepackage{hyperref}
@@ -6,7 +6,7 @@
 \usepackage{enumerate}
 
 \pagestyle{fancy}
-\rhead{Document number: RBB4-01}
+\rfoot{Document number: RBB4-01}
 
 \graphicspath{{img/}}
 
@@ -34,7 +34,7 @@ Pilatus B4AF & All \\
 This change is made to install a TSO-approved Mode-S transponder (like for example the Garrecht VT-01 UltraCompact) with a Filser Transflex-4 antenna in the applicable aircraft. The design covers the installation of an antenna, a transponder and wiring. This change is identical for all effective aircraft.
 
 \section{Applicable requirements}
-\subsection{CS 22.1301:  Equipment/Function and installation}
+\subsection[CS 22.1301]{CS 22.1301:  Equipment/Function and installation}
 \begin{enumerate}[(a)]
 \item Each item of required equipment must:
 	\begin{enumerate}[(1)]
@@ -47,14 +47,14 @@ This change is made to install a TSO-approved Mode-S transponder (like for examp
 \end{enumerate}
 
 
-\subsection{CS 22.1365:  Electrical Systems and Equipment/Electric cables and equipment}
+\subsection[CS 22.1365]{CS 22.1365:  Electrical Systems and Equipment/Electric cables and equipment}
 \begin{enumerate}[(a)] 
 \item Each electric connecting cable must be of adequate capacity and correctly routed, attached and connected so as to minimize the probability of short circuits and fire hazards.
 \item Overload protection must be provided for each electrical equipment. No protective device may protect more than one circuit essential to flight safety.
 \item Unless each cable installation from the battery to a circuit protective device or master switch, whichever is closer to the battery, is of such power-carrying capacity that no hazardous damage will occur in the event of a short circuit, this length of cable must be so protected or routed in relation to parts of the powered sailplane that the risk of short circuit is minimised. (See AMC 22.1365(c))
 \end{enumerate}
 
-\subsection{CS 22.1431:  Miscellaneous Equipment/ATC airborne equipment}
+\subsection[CS 22.1431]{CS 22.1431:  Miscellaneous Equipment/ATC airborne equipment}
 Each ATC airborne equipment provided must comply with the following:
 \begin{enumerate}[(a)]
 \item The equipment and its aerials may neither in themselves nor by their mode of operation or by their effect upon the operating characteristics of the sailplane and its equipment constitute a hazard to safe operation.
@@ -62,7 +62,7 @@ Each ATC airborne equipment provided must comply with the following:
 \end{enumerate}
 
 
-\subsection{EuroCAE ED-73B: Minimum operational performance specifications for secondary surveillance radar mode s transponders}
+\subsection[EuroCAE ED-73B]{EuroCAE ED-73B: Minimum operational performance specifications for secondary surveillance radar mode s transponders}
 These minimum operational performance specifications are designed to ensure that aircraft Mode S Secondary Surveillance Radar (SSR) transponder equipments certificated to them will be compatible with ICAO Annex 10, Volume IV, Part I up to Amendment 82 and the 1st edition of ICAO Document 9871 (Technical Provisions for Mode S Services and Extended Squitter). 
 
 These minimum operational performance specifications do not include detailed descriptions of Mode S coding formats, protocols and interfaces; these can be found in ICAO Annex 10, Volume IV. 
@@ -75,7 +75,7 @@ After the change has been performed, a new weight \& balance report must be made
 
 \section{Substantiation of the requirements}
 
-\subsection{CS 22.1301:  Equipment/Function and installation}
+\subsection[CS 22.1301]{CS 22.1301:  Equipment/Function and installation}
 \begin{enumerate}[(a)]
 \item For each item the following applies:
 \begin{enumerate}[(1)]
@@ -86,7 +86,7 @@ After the change has been performed, a new weight \& balance report must be made
 \item Installation of the transponders, antennae and wiring will be so that they will not constitute a hazard to safe operation by themselves or their effect upon the sailplane. In particular the installation of the antennae, its bracket and wiring will be so that no interference with flight controls or other parts of the aircraft is ensured during normal operation of the aircraft. The cable and wires used will be installed according the instructions of the manufacturer of the transponder.
 \end{enumerate}
 
-\subsection{CS 22.1365:  Electrical Systems and Equipment/Electric cables and equipment}
+\subsection[CS 22.1365]{CS 22.1365:  Electrical Systems and Equipment/Electric cables and equipment}
 \begin{enumerate}[(a)] 
 \item The transponder will be connected to the electrical system according to the instruction of the manufacturer of the transponder.
 \item Overload protection will be installed according to the instruction of
@@ -94,7 +94,7 @@ the manufacturer of the transponder.
 \item Not applicable for this minor change.
 \end{enumerate}
 
-\subsection{CS 22.1431:  Miscellaneous Equipment/ATC airborne equipment}
+\subsection[CS 22.1431]{CS 22.1431:  Miscellaneous Equipment/ATC airborne equipment}
 Each ATC airborne equipment provided must comply with the following:
 \begin{enumerate}[(a)]
 \item This minor change only covers the installation of ETSO-2C112a approved transponders.
@@ -102,7 +102,7 @@ Each ATC airborne equipment provided must comply with the following:
 \end{enumerate}
 
 
-\subsection{EuroCAE ED-73B: Minimum operational performance specifications for secondary surveillance radar mode s transponders}
+\subsection[EuroCAE ED-73B]{EuroCAE ED-73B: Minimum operational performance specifications for secondary surveillance radar mode s transponders}
 After the change is performed, the transponder will be tested in accordance with the instructions of the manufacturer of the transponder in order to verify that the transponder is in compliance with the EuroCAE ED-73B requirements.
 
 
@@ -110,9 +110,13 @@ Note:
 All installation work will be performed in accordance with acceptable methods, techniques and practices for alternations, inspections and repair as shown in FAA documents AC 43.13.B and AC 43.13-2A and the installation manual of the transponder in question.
 
 \section{Attached appendices}
-\begin{enumerate}
-\item Appendix A: Tekening/foto van de antenne.
-\end{enumerate}
+\begin{itemize}
+\item[Figure \ref{fig:antenna_location}]{Antenna location sketch.}
+\item[Figure \ref{fig:ersatzteil_rumpfspant4}]{Figure 2/1/15 from the Pilatus B4 ersatzteil katalog, with Rumpfspant 4.}
+\item[Figure \ref{fig:ersatzteil_antenna}]{Figure 2/1/3 from the Pilatus B4 ersatzteil katalog, with the location of the antenna pointed out.}
+\item[Figure \ref{fig:outside}]{A photograph, taken from the outside of the fuselage, of the antenna installed.}
+\item[Figure \ref{fig:inside}]{A photograph, taken from the inside of the fuselage, of the antenna installed.}
+\end{itemize}
 
 \begin{figure}
 \includegraphics[width=\textwidth,keepaspectratio]{antenna_location}
@@ -142,7 +146,7 @@ All installation work will be performed in accordance with acceptable methods, t
 \begin{figure}
 \includegraphics[width=\textwidth,keepaspectratio]{inside}
 \caption{A photograph, taken from the inside of the fuselage, of the antenna installed.}
-\label{fig:outside}
+\label{fig:inside}
 \end{figure}
 
 \end{document}
