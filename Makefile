@@ -29,7 +29,7 @@ clean: imgclean outputclean intermediateclean
 
 
 #PDF files
-minorchange.pdf: minorchange.tex img/b4_ersatzteil_katalog_fig_2_1_3_annotated.pdf img/b4_ersatzteil_katalog_fig_2_1_15_annotated.pdf img/antenna_location.pdf img/inside.jpg img/outside.jpg img/bxp6401.pdf img/trt800.pdf img/tt21.pdf img/vt01.pdf $(DEPS)
+minorchange.pdf: minorchange.tex img/b4_ersatzteil_katalog_fig_2_1_3_annotated.pdf img/b4_ersatzteil_katalog_fig_2_1_15_annotated.pdf img/antenna_location.pdf img/inside.pdf img/outside.pdf img/bxp6401.pdf img/trt800.pdf img/tt21.pdf img/vt01.pdf $(DEPS)
 	pdflatex minorchange.tex
 	pdflatex minorchange.tex
 	pdflatex minorchange.tex
