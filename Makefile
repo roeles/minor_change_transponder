@@ -1,7 +1,7 @@
 DEPS=Makefile
 
 
-all: minorchange.pdf
+all: minorchange.pdf preface.pdf
 
 imgclean:
 	rm -f img/*.pdf
@@ -36,6 +36,11 @@ minorchange.pdf: minorchange.tex img/b4_ersatzteil_katalog_fig_2_1_3_annotated.p
 #	bibtex kalman_paper.aux
 #	pdflatex kalman_paper.tex
 #	pdflatex kalman_paper.tex
+
+preface.pdf: preface.tex
+	pdflatex preface.tex
+	pdflatex preface.tex
+	pdflatex preface.tex
 
 
 
