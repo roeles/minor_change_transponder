@@ -1,7 +1,7 @@
 DEPS=Makefile
 
 
-all: minorchange.pdf preface.pdf
+all: minorchange_complete.pdf
 
 imgclean:
 	rm -f img/*.pdf
@@ -29,6 +29,9 @@ clean: imgclean outputclean intermediateclean
 
 
 #PDF files
+minorchange_complete.pdf: minorchange.pdf preface.pdf
+	pdftk preface.pdf approval.pdf minorchange.pdf cat output $@
+
 minorchange.pdf: minorchange.tex img/b4_ersatzteil_katalog_fig_2_1_3_annotated.pdf img/b4_ersatzteil_katalog_fig_2_1_15_annotated.pdf img/antenna_location.pdf img/inside.pdf img/outside.pdf img/bxp6401.pdf img/trt800.pdf img/tt21.pdf img/vt01.pdf img/circuit.pdf $(DEPS)
 	pdflatex minorchange.tex
 	pdflatex minorchange.tex
